@@ -1,4 +1,8 @@
-# SseTestFe
+# Angular Server Sent Events from Nest Backend
+
+## Description
+
+Angular starter repository using Server Sent Events.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
